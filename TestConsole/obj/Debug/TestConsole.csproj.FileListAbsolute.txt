@@ -1,0 +1,8 @@
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\bin\Debug\TestConsole.exe.config
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\bin\Debug\TestConsole.exe
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\bin\Debug\TestConsole.pdb
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\bin\Debug\GlobalDefinitions.dll
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\bin\Debug\RocrailLib_v4.dll
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\obj\Debug\TestConsole.exe
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\TestConsole\obj\Debug\TestConsole.pdb

@@ -1,0 +1,29 @@
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\bin\Debug\ProjetRocrail_v0.1.exe.config
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\bin\Debug\ProjetRocrail_v0.1.exe
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\bin\Debug\ProjetRocrail_v0.1.pdb
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.csprojResolveAssemblyReference.cache
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\MainWindow.baml
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\MainWindow.g.cs
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\App.g.cs
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1_MarkupCompile.cache
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.g.resources
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0._1.Properties.Resources.resources
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.csproj.GenerateResource.Cache
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.exe
+G:\_AMFL Doc Etudiants\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.pdb
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\bin\Debug\ProjetRocrail_v0.1.exe.config
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\bin\Debug\ProjetRocrail_v0.1.exe
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\bin\Debug\ProjetRocrail_v0.1.pdb
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\MainWindow.baml
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\MainWindow.g.cs
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\App.g.cs
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1_MarkupCompile.cache
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1_MarkupCompile.lref
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\App.baml
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.g.resources
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0._1.Properties.Resources.resources
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.csproj.GenerateResource.Cache
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.exe
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.pdb
+D:\SN2IR2016\TOSAN\Projet\Projet2016\ProjetRocrail_v0.1\ProjetRocrail_v0.1\obj\Debug\ProjetRocrail_v0.1.csprojResolveAssemblyReference.cache

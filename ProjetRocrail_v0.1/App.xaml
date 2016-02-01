@@ -1,0 +1,9 @@
+﻿<Application x:Class="ProjetRocrail_v0._1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:model="clr-namespace:ProjetRocrail_v0._1.model"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <model:CModelRegu x:Key="reg"/>
+    </Application.Resources>
+</Application>
